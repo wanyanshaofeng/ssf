@@ -37,7 +37,7 @@ server {
 laravel database语法参考 https://laravel.com/docs/5.8/database
 
 模板引擎
-twig语法参考 https://twig.symfony.com/doc/3.x/templates.html
+twig语法参考 https://twig.symfony.com/doc/2.x
 
 ## 使用交流
 
